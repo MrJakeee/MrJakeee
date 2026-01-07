@@ -1,10 +1,15 @@
 # ¡Hola! Soy Manuel Montoya 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Ingeniero%20en%20Informática-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/-22%20Años-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/Estudiante-ITSLP-gold?style=flat-square" />
-</p>
+<div align="center">
+  <h1>👋 Hola, soy Manuel Montoya</h1>
+  <p><strong>Ingeniero en Informática | 22 Años | Estudiante ITSLP</strong></p>
+  
+  <img src="https://img.shields.io/badge/Ingeniero-Informática-blue?style=for-the-badge&logo=codepen&logoColor=white" />
+  <img src="https://img.shields.io/badge/Edad-22_Años-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Estudiante-ITSLP-gold?style=for-the-badge" />
+</div>
+
+<br/>
 
 ### 👨‍💻 Sobre Mí
 
