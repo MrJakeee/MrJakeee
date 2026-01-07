@@ -16,7 +16,7 @@
 Soy un apasionado de la tecnología y el aprendizaje continuo. Actualmente, me encuentro cursando la carrera de **Ingeniería en Informática** en el **Instituto Tecnológico de San Luis Potosí**.
 
 * 🔭 **Enfoque actual:** Aprendiendo y perfeccionando el lenguaje **C++**.
-* 📜 **Certificaciones:** Certificado en Cisco **CCNA 1** y **CCNA 2**.
+* 📜 **Certificaciones:** Certificado en Cisco **CCNA 1**, **CCNA 2**, **Fortnite IoT**.
 * 🌱 **Aprendizaje:** Constantemente explorando y dominando nuevas tecnologías.
 
 ---
