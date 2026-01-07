@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre Mí
 
-Soy un apasionado de la tecnología y el aprendizaje continuo. Actualmente, me encuentro expandiendo mis horizontes como **Ingeniero en Informática** en el **Instituto Tecnológico de San Luis Potosí**.
+Soy un apasionado de la tecnología y el aprendizaje continuo. Actualmente, me encuentro estudiando como **Ingeniero en Informática** en el **Instituto Tecnológico de San Luis Potosí**.
 
 * 🔭 **Actualmente:** Perfeccionando mis habilidades en **C++**.
 * 🌱 **Aprendizaje:** Siempre buscando nuevas tecnologías y herramientas para dominar.
